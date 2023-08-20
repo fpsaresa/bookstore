@@ -1,0 +1,38 @@
+.searchbox{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  scroll-margin-right: 45%;
+}
+
+.bookTitle{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.bookContainer{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.bookBox{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  padding: 0 4px;
+}
+
+.bookLine{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  backdrop-filter: blur(5px);
+  border-radius: 20px;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}

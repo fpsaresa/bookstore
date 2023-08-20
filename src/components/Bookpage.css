@@ -1,0 +1,48 @@
+.serchBox{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.addBtnBox{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.bookContainer{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.table{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.tableTR{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.tableBtn{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.editBtn{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: green;
+}
+
+.deleteBtn{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
